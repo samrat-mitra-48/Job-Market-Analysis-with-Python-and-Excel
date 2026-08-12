@@ -4,5 +4,6 @@
 3. Used Excel to analyze job market trends and identify in-demand technical skills and experience requirements.
 4. Created data-driven insights on skills and qualifications commonly requested for Data Analyst roles.
 5. Transformed raw job posting data into actionable insights to understand current hiring requirements.
-#Link to my Google Sheet:
-https://docs.google.com/spreadsheets/d/17QksJ27k2ZxbUGUDDey2k5LgcTr3hvl5JTKCI433nGY/edit?usp=sharing
+
+#Link to my Google Sheet: https://docs.google.com/spreadsheets/d/17QksJ27k2ZxbUGUDDey2k5LgcTr3hvl5JTKCI433nGY/edit?usp=sharing
+
